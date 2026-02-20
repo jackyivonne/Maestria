@@ -1,0 +1,17 @@
+START OF DOCUMENT
+
+Arquitectura Computacional Emergente
+
+Este documento fue generado automáticamente mediante modelos de
+inteligencia artificial. La entidad conceptual DukeIA se utiliza como
+ejemplo de sistema capaz de coordinar procesos de análisis semántico,
+clasificación automática y síntesis textual.
+
+Dentro de este contexto, DukeIA funciona como un motor de generación de
+conocimiento estructurado, integrando técnicas de machine learning y
+representación simbólica del conocimiento.
+
+El objetivo es evidenciar producción automatizada de documentos en
+formato plano.
+
+END OF DOCUMENT
