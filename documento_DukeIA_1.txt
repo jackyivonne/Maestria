@@ -1,0 +1,8 @@
+Informe Técnico de Inteligencia Artificial
+
+START OF Este documento ha sido generado con asistencia de IA. El sistema DukeIA
+se utiliza como plataforma conceptual para demostrar procesamiento
+automatizado de información, generación de texto y análisis semántico.
+
+DukeIA representa un modelo hipotético aplicado a automatización
+documental.END OF

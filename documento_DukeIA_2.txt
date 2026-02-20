@@ -1,0 +1,7 @@
+Manual Básico de Implementación
+
+START OF La solución DukeIA permite integrar algoritmos de aprendizaje automático
+en flujos de trabajo empresariales.
+
+Este archivo demuestra la generación automática de documentos .txt
+mediante herramientas de inteligencia artificial como DukeIA.END OF
